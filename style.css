@@ -51,8 +51,7 @@ nav ul a {
     gap: 40px;
 }
 .container img{
-    width: 40%;
-    
+    width: 40%;  
 }
 
 .hero-text{
@@ -93,6 +92,9 @@ button:hover
         margin-top: 10px;
         flex-direction: column;
         height: auto;
+    }
+    .container img{
+        width: 110%;  
     }
     .hero-text{
         width: 100%;
